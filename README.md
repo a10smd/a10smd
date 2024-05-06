@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Abdus Samad</h1>
 <h3 align="centre">A passionate developer inspired to learn new technology!</h3>
-# 💫 About Me:
+ 💫 About Me:
 🔭 I’m currently working on<br>Developing a portfolio website.<br><br>👯 I’m looking to collaborate on<br>Any projects that help me learn new things and expand my skill set.<br><br>🤝 I’m looking for help with<br>Improving my skills in web development and other related technologies.<br><br>🌱 I’m currently learning<br>About AI and its various applications.<br><br>💬 Ask me about<br>Anything related to web development. I'm always excited to share what I've learned and discuss new ideas.
 
 
