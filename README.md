@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdus Samad</h1>
 <h3 align="centre">A passionate developer inspired to learn new technology!</h3>
  💫 About Me:
-🔭 I’m currently working on<br>Developing a portfolio website.<br><br>👯 I’m looking to collaborate on<br>Any projects that help me learn new things and expand my skill set.<br><br>🤝 I’m looking for help with<br>Improving my skills in web development and other related technologies.<br><br>🌱 I’m currently learning<br>About AI and its various applications.<br><br>💬 Ask me about<br>Anything related to web development. I'm always excited to share what I've learned and discuss new ideas.
+🔭 I’m working on<br>Developing an AI-powered Todo app.<br><br>👯 I’m looking to collaborate on<br>Any projects that help me learn new things and expand my skill set.<br><br>🤝 I’m looking for help with<br>Improving my skills in web development and other related technologies.<br><br>🌱 I’m currently learning<br>About AI and its various applications.<br><br>💬 Ask me about<br>Anything related to web development. I'm always excited to share what I've learned and discuss new ideas.
 
 
 ## 🌐 Socials:
